@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "97a9ed9df3dd9ce7",
+    "type": "split",
+    "children": [
+      {
+        "id": "814ca67b68befe87",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Thesis (Brainstorming).md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d56493b81551d3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a4fb6b8976331a9",
+        "type": "tabs",
+        "dimension": 69.26345609065156,
+        "children": [
+          {
+            "id": "43cd330bf7dade7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5bc8b2bf8547df38",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "aca9a04c54dfac50",
+        "type": "tabs",
+        "dimension": 30.73654390934845,
+        "children": [
+          {
+            "id": "be2ce8ef844434a2",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8a5582535d45ee27",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fc66ec504b0fcf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19a7c8f72b2e8a32",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Thesis (Brainstorming).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "841aaa096729b36d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Thesis (Brainstorming).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4aef19d30ce6148",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1c2818772c00eeca",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "f4897158112db593",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f14ff4590c06741",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "906bcc54b5889266",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "0f3341ec5fe65f0e",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "be9880807cae3a08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7eca6b32dadf3c6",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Thesis (Brainstorming).md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7106798602071118,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "2a19ea2fd9567140",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 342.3999938964844,
+    "collapsed": true
+  },
+  "active": "814ca67b68befe87",
+  "lastOpenFiles": [
+    "Flow (DevOps).md",
+    "Low Fidelity Prototype.md",
+    "images/Low Fidelity Prototype 2022-08-30 03.10.23.excalidraw.md",
+    "revenue model 2 (open events).md",
+    "Containers (Docker).md",
+    "Github Action - Automated Testing.md",
+    "revenue models.md",
+    "User Testing Methods.md",
+    "nginx reverse proxy.md",
+    "Infrastructure as Code.md"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "images",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": true,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "Dhoolia",
+    "Pranav",
+    "Travikit",
+    "Intellisense",
+    "Prisma",
+    "ORMs",
+    "ese ",
+    "se. Pr",
+    "Declaratively",
+    "enums",
+    " Prana",
+    "prisma",
+    "ript bas",
+    "at's wh",
+    "\n\n",
+    "TypeGraphQL",
+    "TypeGraphQL"
+  ]
+}

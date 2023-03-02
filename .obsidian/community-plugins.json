@@ -32,5 +32,6 @@
   "templater-obsidian",
   "theme-picker",
   "workbench-obsidian",
-  "obsidian-extract-pdf-highlights"
+  "obsidian-extract-pdf-highlights",
+  "obsidian-textgenerator-plugin"
 ]

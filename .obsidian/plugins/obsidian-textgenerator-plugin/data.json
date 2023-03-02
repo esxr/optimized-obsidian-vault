@@ -1,0 +1,35 @@
+{
+  "api_key": "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",
+  "engine": "text-davinci-003",
+  "max_tokens": 160,
+  "temperature": 0.7,
+  "frequency_penalty": 0.5,
+  "prompt": "",
+  "showStatusBar": true,
+  "promptsPath": "textgenerator/prompts",
+  "context": {
+    "includeTitle": false,
+    "includeStaredBlocks": true,
+    "includeFrontmatter": true,
+    "includeHeadings": true,
+    "includeChildren": false,
+    "includeMentions": false,
+    "includeHighlights": true
+  },
+  "options": {
+    "generate-text": true,
+    "generate-text-with-metadata": true,
+    "insert-generated-text-From-template": true,
+    "create-generated-text-From-template": false,
+    "insert-text-From-template": false,
+    "create-text-From-template": false,
+    "show-model-From-template": true,
+    "set_max_tokens": true,
+    "set-model": true,
+    "packageManager": true,
+    "create-template": false,
+    "get-title": true
+  },
+  "displayErrorInEditor": false,
+  "models": {}
+}

@@ -54,6 +54,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "34abe696f840a332",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       },
@@ -225,18 +233,12 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "juggl:Juggl global graph": false,
-      "periodic-notes:Open today": false,
-      "templater-obsidian:Templater": false,
-      "workbench-obsidian:Workbench": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false
+      "random-note:Open random note": false
     }
   },
-  "active": "814ca67b68befe87",
+  "active": "43cd330bf7dade7a",
   "lastOpenFiles": [
+    "Untitled.md",
     "Thesis (Brainstorming).md",
     "Methodology (Rough).md",
     "Thesis (Outline).md",
